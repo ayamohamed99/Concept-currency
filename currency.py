@@ -128,7 +128,6 @@ def result():
 cnvButton = Button(buttonFrame, text="Convert..", command=result, padx=5, bg='#e63946', fg='white',
                    font=('lato black', 15, 'bold'))
 cnvButton.pack()
-
 # ***************** Run ********************
 
 
